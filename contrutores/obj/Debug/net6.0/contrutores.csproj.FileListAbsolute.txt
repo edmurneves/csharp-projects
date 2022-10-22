@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/bin/Debug/net6.0/contrutores
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/bin/Debug/net6.0/contrutores.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/bin/Debug/net6.0/contrutores.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/bin/Debug/net6.0/contrutores.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/bin/Debug/net6.0/contrutores.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/refint/contrutores.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/contrutores.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/contrutores/obj/Debug/net6.0/ref/contrutores.dll
