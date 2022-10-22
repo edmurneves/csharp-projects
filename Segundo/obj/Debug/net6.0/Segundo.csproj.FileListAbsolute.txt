@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/bin/Debug/net6.0/Segundo
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/bin/Debug/net6.0/Segundo.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/bin/Debug/net6.0/Segundo.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/bin/Debug/net6.0/Segundo.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/bin/Debug/net6.0/Segundo.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/refint/Segundo.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/Segundo.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-nelio-alves/Segundo/obj/Debug/net6.0/ref/Segundo.dll
