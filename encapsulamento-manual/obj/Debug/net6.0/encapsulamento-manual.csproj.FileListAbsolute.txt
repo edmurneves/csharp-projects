@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/bin/Debug/net6.0/encapsulamento-manual
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/bin/Debug/net6.0/encapsulamento-manual.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/bin/Debug/net6.0/encapsulamento-manual.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/bin/Debug/net6.0/encapsulamento-manual.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/bin/Debug/net6.0/encapsulamento-manual.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/refint/encapsulamento-manual.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/encapsulamento-manual.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/encapsulamento-manual/obj/Debug/net6.0/ref/encapsulamento-manual.dll
