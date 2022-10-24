@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/bin/Debug/net6.0/auto-properties
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/bin/Debug/net6.0/auto-properties.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/bin/Debug/net6.0/auto-properties.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/bin/Debug/net6.0/auto-properties.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/bin/Debug/net6.0/auto-properties.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/refint/auto-properties.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/auto-properties.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/auto-properties/obj/Debug/net6.0/ref/auto-properties.dll
