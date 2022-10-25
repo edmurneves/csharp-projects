@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/bin/Debug/net6.0/ex_07_refactor
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/bin/Debug/net6.0/ex_07_refactor.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/bin/Debug/net6.0/ex_07_refactor.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/bin/Debug/net6.0/ex_07_refactor.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/bin/Debug/net6.0/ex_07_refactor.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/refint/ex_07_refactor.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ex_07_refactor.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/ex_07_refactor/obj/Debug/net6.0/ref/ex_07_refactor.dll
