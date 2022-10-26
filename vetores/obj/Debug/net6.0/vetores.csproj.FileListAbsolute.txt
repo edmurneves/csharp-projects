@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/bin/Debug/net6.0/vetores
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/bin/Debug/net6.0/vetores.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/bin/Debug/net6.0/vetores.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/bin/Debug/net6.0/vetores.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/bin/Debug/net6.0/vetores.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/refint/vetores.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/vetores.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/vetores/obj/Debug/net6.0/ref/vetores.dll
