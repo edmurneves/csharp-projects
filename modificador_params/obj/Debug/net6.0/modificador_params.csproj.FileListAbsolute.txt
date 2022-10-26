@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/bin/Debug/net6.0/modificador_params
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/bin/Debug/net6.0/modificador_params.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/bin/Debug/net6.0/modificador_params.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/bin/Debug/net6.0/modificador_params.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/bin/Debug/net6.0/modificador_params.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/refint/modificador_params.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/modificador_params.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_params/obj/Debug/net6.0/ref/modificador_params.dll
