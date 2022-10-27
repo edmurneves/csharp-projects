@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/bin/Debug/net6.0/foreach
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/bin/Debug/net6.0/foreach.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/bin/Debug/net6.0/foreach.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/bin/Debug/net6.0/foreach.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/bin/Debug/net6.0/foreach.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/refint/foreach.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/foreach.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/foreach/obj/Debug/net6.0/ref/foreach.dll

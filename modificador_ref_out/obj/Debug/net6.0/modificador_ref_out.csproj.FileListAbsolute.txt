@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/bin/Debug/net6.0/modificador_ref_out
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/bin/Debug/net6.0/modificador_ref_out.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/bin/Debug/net6.0/modificador_ref_out.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/bin/Debug/net6.0/modificador_ref_out.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/bin/Debug/net6.0/modificador_ref_out.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/refint/modificador_ref_out.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/modificador_ref_out.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/modificador_ref_out/obj/Debug/net6.0/ref/modificador_ref_out.dll
