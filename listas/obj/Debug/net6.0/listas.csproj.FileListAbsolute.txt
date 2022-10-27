@@ -1,0 +1,15 @@
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/bin/Debug/net6.0/listas
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/bin/Debug/net6.0/listas.deps.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/bin/Debug/net6.0/listas.runtimeconfig.json
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/bin/Debug/net6.0/listas.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/bin/Debug/net6.0/listas.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.csproj.AssemblyReference.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.AssemblyInfoInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.AssemblyInfo.cs
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.csproj.CoreCompileInputs.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/refint/listas.dll
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.pdb
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/listas.genruntimeconfig.cache
+/home/edmur/pessoal/exercicios-csharp/csharp-exercicios/listas/obj/Debug/net6.0/ref/listas.dll
